@@ -1,0 +1,19 @@
+---
+cmd: 
+ - dcl give %p 1 1
+ - give %p 466 3
+ - 给钱 %p 1088
+ - grpg give %p 木刃
+ - grpg give %p 木锄
+ - grpg give %p 木斧
+ - grpg give %p 木弓
+ - grpg give %p 新手头盔
+ - grpg give %p 新手胸甲
+ - grpg give %p 新手裤子
+ - grpg give %p 新手战靴
+ 
+message: 
+ - 新手礼包领取成功
+ - 您获得了[抽奖券*1、金苹果*3、500金币]
+ - 请前往战场指挥官处消耗抽奖券进行抽取喔！
+...

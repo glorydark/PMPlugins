@@ -1,0 +1,22 @@
+﻿name: DWorldProtect
+main: DWorldProtect\Main
+version: 1.0.0
+api: [1.0.0]
+load: STARTUP
+author: glorydark
+commands:
+ wp:
+  description: DWorldProtect
+  usage: /wp
+permissions:
+ DWorldProtect.*:
+  default: op
+  description: 根权限
+  children:
+  DWorldProtect.command:
+   default: op
+   description: 所有指令权限
+   children:
+    DWorldProtect.command.wp:
+     default: op
+     description: DWorldProtect

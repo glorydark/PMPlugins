@@ -1,0 +1,28 @@
+name: DCurrencySystem
+main: DCurrencySystem\Main
+version: 1.0.0
+api: [1.0.0]
+load: STARTUP
+author: glorydark
+commands:
+ dcs:
+  description: DCurrencySystem.redeem
+  usage: /dcs 兑换 <兑换物品名> <兑换个数>
+permissions:
+ DCurrencySystem.*:
+  default: true
+  description: 根权限
+  children:
+  DCurrencySystem.command:
+   default: true
+   description: 所有指令权限
+   children:
+    DCurrencySystem.command.兑换:
+     default: true
+     description: DCurrencySystem兑换系统
+    DCurrencySystem.command.添加类型:
+     default: true
+     description: DCurrencySystem兑换系统
+    DCurrencySystem.command.给予:
+     default: op
+     description: DCurrencySystem兑换系统

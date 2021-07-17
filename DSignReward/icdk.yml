@@ -1,0 +1,48 @@
+---
+qd:
+- bs
+- el
+- elg
+- baidu
+- taptap
+bs_cdk: bs
+bs_cmd: 
+ - 给钱 %p 688
+ - prefix 赠送 %p 7 §eEl报社
+ - grpg give %p 弓箭·损 1
+bs_message: 
+ - §e恭喜您获得El报社测试服群渠道礼包:
+ - §6内含【688金币、弓箭·损、"El报社"称号7天】
+el_cdk: el
+el_cmd: 
+ - 给钱 %p 688
+ - grpg give %p 战斧 1
+ - prefix 赠送 %p 7 §6El玩家联盟
+el_message: 
+ - §e恭喜您获得El玩家联盟-游戏讨论群渠道礼包:
+ - §6内含【688金币、战斧、"El玩家联盟"称号7天】
+elg_cdk: elg
+elg_cmd: 
+ - 给钱 %p 488
+ - grpg give %p 回复试剂·普通 5
+ - prefix 赠送 %p 7 §6El玩家游戏联盟
+elg_message: 
+ - §e恭喜您获得El玩家联盟-游戏讨论群渠道礼包:
+ - §6内含【688金币、回复试剂·普通*5、"El玩家游戏联盟"称号7天】
+baidu_cdk: baidu
+baidu_cmd: 
+ - 给钱 %p 488
+ - dcl give %p 1 1
+ - prefix 赠送 %p 3 §b百度贴吧
+baidu_message: 
+ - §e恭喜您获得百度贴吧渠道礼包:
+ - §6内含【488金币、探索券*1、"百度贴吧"称号3天】
+taptap_cdk: taptap
+taptap_cmd: 
+ - 给钱 %p 488
+ - grpg give %p 战斧·损 1
+ - prefix 赠送 %p 3 §bTapTap
+taptap_message: 
+ - §e恭喜您获得TapTap渠道礼包:
+ - §6内含【488金币、战斧·损、"TapTap"称号3天】
+...

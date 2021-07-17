@@ -1,0 +1,22 @@
+﻿name: DCrapsLottery
+main: DCrapsLottery\Main
+version: 1.0.0
+api: [1.0.0]
+load: STARTUP
+author: glorydark
+commands:
+ dcl:
+  description: DCrapsLottery 骰子抽奖
+  usage: /dcl help
+permissions:
+ DCrapsLottery.*:
+  default: true
+  description: 根权限
+  children:
+  DCrapsLottery.command:
+   default: true
+   description: 所有指令权限
+   children:
+    DCrapsLottery.command.dcl:
+     default: true
+     description: 抽奖命令

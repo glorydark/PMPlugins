@@ -1,0 +1,28 @@
+name: DCDK
+main: DCDK\Main
+version: 1.0.0
+api: [1.0.0]
+load: STARTUP
+author: glorydark
+commands:
+ 生成CDK:
+  description: DCDK.reset
+  usage: /生成CDK <CDK>
+ 兑换CDK:
+  description: DCDK.get
+  usage: /xs
+permissions:
+ DCDK.*:
+  default: true
+  description: 根权限
+  children:
+  DCDK.command:
+   default: true
+   description: 所有指令权限
+   children:
+    DCDK.command.生成CDK:
+     default: op
+     description: 生成CDK
+    DCDK.command.兑换CDK:
+     default: true
+     description: 兑换CDK

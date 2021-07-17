@@ -1,0 +1,192 @@
+---
+§a前往T1副本:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - w fb
+§a抽奖:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcl start
+§a新手礼包:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - xs
+§a签到:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - qd
+§a前往T1.5副本:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - w bj
+§a前往T2副本:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - w zc
+§a兑换利刃·损:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 利刃·损
+§a兑换利刃:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 利刃
+§a兑换锋刃:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 锋刃
+§a兑换星痕之刃:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 星痕之刃
+§a兑换星痕之剑:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 星痕之剑
+§a兑换磨砺锋刃:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 磨砺锋刃
+§a兑换湛蓝锋刃:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 湛蓝锋刃
+§a兑换星痕锋刃:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 星痕锋刃
+§a兑换锄头·损:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 锄头·损
+§a兑换锄头:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 锄头
+§a兑换湛蓝剪刃:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 湛蓝剪刃
+§a兑换不朽锄:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 不朽锄
+§a兑换木杖·损:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 木杖·损
+§a兑换木杖:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 木杖
+§a兑换治愈之芯:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 治愈之芯
+§a兑换守护之芯:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 守护之芯
+§a兑换战斧·损:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 战斧·损 
+§a兑换战斧:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 战斧·损
+§a兑换热诚战斧:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 热诚战斧
+§a兑换星痕斧:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 星痕斧
+§a兑换佩剑·损:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 佩剑·损
+§a兑换佩剑:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 佩剑
+§a兑换热诚之剑:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 热诚之剑
+§a兑换星痕佩剑:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 星痕佩剑
+§a兑换弓箭·损:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 弓箭·损
+§a兑换弓箭:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 弓箭
+§a兑换湛蓝之弓:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 湛蓝之弓
+§a兑换浮游之弓:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 浮游之弓
+§a兑换磨砺之弓·损:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 磨砺之弓·损
+§a兑换磨砺之弓:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 磨砺之弓
+§a兑换不朽之弓:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 不朽之弓
+§a兑换精灵之弓:
+  messages: []
+  costmoney: "0"
+  commands: 
+   - dcs 兑换 精灵之弓
+...

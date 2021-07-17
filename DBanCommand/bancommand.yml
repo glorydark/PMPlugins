@@ -1,0 +1,30 @@
+---
+list:
+- gamemode
+- 生成CDK
+- 选择点
+- bc
+- give
+- 发钱
+- 给钱
+- 铺路
+- 添加许可
+- 偷钱
+- 删除
+- xp
+- timings
+- summon
+- setwarp
+- setspawn
+- save-on
+- save-off
+- save-all
+- reload
+- plugins
+admin:
+- glorydark
+- xiaoxun
+- sina
+- anduyin
+- fuyun
+...

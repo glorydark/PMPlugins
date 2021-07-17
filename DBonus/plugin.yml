@@ -1,0 +1,13 @@
+﻿name: DBonus
+main: DBonus\Main
+version: 1.0.0
+api: [1.0.0]
+load: STARTUP
+author: glorydark
+commands:
+ 抢金币红包:
+  description: DBonus
+  usage: /抢金币红包 <红包id>
+ 发金币红包:
+  description: DBonus
+  usage: /发金币红包 数量 金额

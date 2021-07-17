@@ -1,0 +1,54 @@
+---
+8rQFchPG:
+  items: []
+  commands:
+  - grpg exp add %p 240
+  - dcl give %p 1 30
+  - prefix 赠送 %p 30 小锦鲤
+  messages:
+  - 恭喜您获得经验*240、抽奖券*3、[称号]小锦鲤 30天
+LrQFcj0g:
+  items: []
+  commands:
+  - admin vip add %p 1级 3
+  - dcs 给予 %p T1武器晶石 2
+  - 给钱 %p 564
+  - dcl give %p 1 1
+  messages:
+  - 恭喜您获得VIP*3天、T1武器晶石*2、金币*564、抽奖券*1
+erQO5Fz4:
+  items: []
+  commands:
+  - prefix 赠送 %p 30 小锦鲤
+  messages:
+  - 恭喜您获得[称号]小锦鲤 30天
+yrQO5Hrc:
+  items: []
+  commands:
+  - dcl give %p 1 3
+  messages:
+  - 恭喜您获得抽奖券*3
+xrQO5I78:
+  items: []
+  commands:
+  - grpg exp add %p 80
+  messages:
+  - 恭喜您获得经验*80
+0rQO5J2o:
+  items: []
+  commands:
+  - admin vip add %p 1级 3
+  messages:
+  - 恭喜您获得VIP 3天
+drQO5JF6:
+  items: []
+  commands:
+  - dcs 给予 %p T1武器晶石 3
+  messages:
+  - 恭喜您获得T1武器晶石*3
+chunkss:
+  items: []
+  commands:
+  - grpg give chunkss 破灭之刃
+  messages: []
+...

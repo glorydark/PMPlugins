@@ -1,0 +1,322 @@
+﻿---
+利刃·损:
+ displayname: "利刃·损"
+ descriptions: "利刃·损"
+ costs: "T1武器晶石@2"
+ moneycost: 0
+ commands:
+  - grpg give %p 利刃·损
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+利刃:
+ displayname: "利刃"
+ descriptions: "利刃"
+ costs: "T1武器晶石@3"
+ moneycost: 0
+ commands:
+  - grpg give %p 利刃
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+锋刃:
+ displayname: "锋刃"
+ descriptions: "锋刃"
+ costs: "T1武器晶石@4"
+ moneycost: 0
+ commands:
+  - grpg give %p 锋刃
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+星痕之刃:
+ displayname: "星痕之刃"
+ descriptions: "星痕之刃"
+ costs: "T1武器晶石@5"
+ moneycost: 0
+ commands:
+  - grpg give %p 星痕之刃
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+星痕之剑:
+ displayname: "星痕之剑"
+ descriptions: "星痕之剑"
+ costs: "T1.5武器晶石@2"
+ moneycost: 0
+ commands:
+  - grpg give %p 星痕之剑
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+磨砺锋刃:
+ displayname: "磨砺锋刃"
+ descriptions: "磨砺锋刃"
+ costs: "T1.5武器晶石@3"
+ moneycost: 0
+ commands:
+  - grpg give %p 磨砺锋刃
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+湛蓝锋刃:
+ displayname: "湛蓝锋刃"
+ descriptions: "湛蓝锋刃"
+ costs: "T1.5武器晶石@4"
+ moneycost: 0
+ commands:
+  - grpg give %p 湛蓝锋刃
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+星痕锋刃:
+ displayname: "星痕锋刃"
+ descriptions: "星痕锋刃"
+ costs: "T1.5武器晶石@5"
+ moneycost: 0
+ commands:
+  - grpg give %p 星痕锋刃
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+锄头·损:
+ displayname: "锄头·损"
+ descriptions: "锄头·损"
+ costs: "T1武器晶石@2"
+ moneycost: 0
+ commands:
+  - grpg give %p 锄头·损
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+锄头:
+ displayname: "锄头"
+ descriptions: "锄头"
+ costs: "T1武器晶石@3"
+ moneycost: 0
+ commands:
+  - grpg give %p 锄头
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+湛蓝剪刃:
+ displayname: "湛蓝剪刃"
+ descriptions: "湛蓝剪刃"
+ costs: "T1武器晶石@4"
+ moneycost: 0
+ commands:
+  - grpg give %p 湛蓝剪刃
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+不朽锄:
+ displayname: "不朽锄"
+ descriptions: "不朽锄"
+ costs: "T1武器晶石@5"
+ moneycost: 0
+ commands:
+  - grpg give %p 不朽锄
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+木杖·损:
+ displayname: "木杖·损"
+ descriptions: "木杖·损"
+ costs: "T1.5武器晶石@2"
+ moneycost: 0
+ commands:
+  - grpg give %p 木杖·损
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+木杖:
+ displayname: "木杖"
+ descriptions: "木杖"
+ costs: "T1.5武器晶石@3"
+ moneycost: 0
+ commands:
+  - grpg give %p 木杖
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+治愈之芯:
+ displayname: "治愈之芯"
+ descriptions: "治愈之芯"
+ costs: "T1.5武器晶石@4"
+ moneycost: 0
+ commands:
+  - grpg give %p 治愈之芯
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+守护之芯:
+ displayname: "守护之芯"
+ descriptions: "守护之芯"
+ costs: "T1.5武器晶石@5"
+ moneycost: 0
+ commands:
+  - grpg give %p 守护之芯
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+战斧·损:
+ displayname: "战斧·损"
+ descriptions: "战斧·损"
+ costs: "T1武器晶石@2"
+ moneycost: 0
+ commands:
+  - grpg give %p 战斧·损
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+战斧:
+ displayname: "战斧"
+ descriptions: "战斧"
+ costs: "T1武器晶石@3"
+ moneycost: 0
+ commands:
+  - grpg give %p 战斧
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+热诚战斧:
+ displayname: "热诚战斧"
+ descriptions: "热诚战斧"
+ costs: "T1武器晶石@4"
+ moneycost: 0
+ commands:
+  - grpg give %p 热诚战斧
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+星痕斧:
+ displayname: "星痕斧"
+ descriptions: "星痕斧"
+ costs: "T1武器晶石@5"
+ moneycost: 0
+ commands:
+  - grpg give %p 星痕斧
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+佩剑·损:
+ displayname: "佩剑·损"
+ descriptions: "佩剑·损"
+ costs: "T1.5武器晶石@2"
+ moneycost: 0
+ commands:
+  - grpg give %p 佩剑·损
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+佩剑:
+ displayname: "佩剑"
+ descriptions: "佩剑"
+ costs: "T1.5武器晶石@3"
+ moneycost: 0
+ commands:
+  - grpg give %p 佩剑
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+热诚之剑:
+ displayname: "热诚之剑"
+ descriptions: "热诚之剑"
+ costs: "T1.5武器晶石@4"
+ moneycost: 0
+ commands:
+  - grpg give %p 热诚之剑
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+星痕之剑:
+ displayname: "星痕之剑"
+ descriptions: "星痕之剑"
+ costs: "T1.5武器晶石@5"
+ moneycost: 0
+ commands:
+  - grpg give %p 星痕之剑
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+弓箭·损:
+ displayname: "弓箭·损"
+ descriptions: "弓箭·损"
+ costs: "T1武器晶石@2"
+ moneycost: 0
+ commands:
+  - grpg give %p 弓箭·损
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+弓箭:
+ displayname: "弓箭"
+ descriptions: "弓箭"
+ costs: "T1武器晶石@3"
+ moneycost: 0
+ commands:
+  - grpg give %p 弓箭
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+湛蓝之弓:
+ displayname: "湛蓝之弓"
+ descriptions: "湛蓝之弓"
+ costs: "T1武器晶石@4"
+ moneycost: 0
+ commands:
+  - grpg give %p 湛蓝之弓
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+浮游之弓:
+ displayname: "浮游之弓"
+ descriptions: "浮游之弓"
+ costs: "T1武器晶石@5"
+ moneycost: 0
+ commands:
+  - grpg give %p 浮游之弓
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+磨砺之弓·损:
+ displayname: "磨砺之弓·损"
+ descriptions: "磨砺之弓·损"
+ costs: "T1.5武器晶石@2"
+ moneycost: 0
+ commands:
+  - grpg give %p 磨砺之弓·损
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+磨砺之弓:
+ displayname: "磨砺之弓"
+ descriptions: "磨砺之弓"
+ costs: "T1.5武器晶石@3"
+ moneycost: 0
+ commands:
+  - grpg give %p 磨砺之弓
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+不朽之弓:
+ displayname: "不朽之弓"
+ descriptions: "不朽之弓"
+ costs: "T1.5武器晶石@4"
+ moneycost: 0
+ commands:
+  - grpg give %p 不朽之弓
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+精灵之弓:
+ displayname: "精灵之弓"
+ descriptions: "精灵之弓"
+ costs: "T1.5武器晶石@5"
+ moneycost: 0
+ commands:
+  - grpg give %p 精灵之弓
+ messages: 
+  - 恭喜您 %p 获得了 %get , 使用了 %use
+  - "%surplus"
+...

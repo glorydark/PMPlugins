@@ -1,0 +1,22 @@
+﻿name: DSign
+main: DSign\Main
+version: 1.0.0
+api: [1.0.0]
+load: STARTUP
+author: glorydark
+commands:
+ sign:
+  description: DSign
+  usage: /DSign
+permissions:
+ DSign.*:
+  default: true
+  description: 根权限
+  children:
+  DSign.command:
+   default: true
+   description: 所有指令权限
+   children:
+    DSign.command.sign:
+     default: true
+     description: 自定义木牌命令

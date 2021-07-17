@@ -1,0 +1,34 @@
+name: DSignReward
+main: DSignReward\Main
+version: 1.0.0
+api: [1.0.0]
+load: STARTUP
+author: glorydark
+commands:
+ qd:
+  description: DSignReward 签到
+  usage: /qd
+ xs:
+  description: DSignReward 新手礼包
+  usage: /xs
+ icdk:
+  description: DSignReward 渠道礼包
+  usage: /icdk
+permissions:
+ DSignReward.*:
+  default: true
+  description: 根权限
+  children:
+  DSignReward.command:
+   default: true
+   description: 所有指令权限
+   children:
+    DSignReward.command.qd:
+     default: true
+     description: 签到命令
+    DSignReward.command.xs:
+     default: true
+     description: 新手礼包命令
+    DSignReward.command.icdk:
+     default: true
+     description: 渠道邀请礼包命令

@@ -1,0 +1,28 @@
+name: DLogin
+main: DLogin\Main
+version: 1.0.2
+api: [1.0.0]
+load: STARTUP
+author: glorydark
+commands:
+ login:
+  description: DLogin 登录
+  usage: /login <密码>
+ register:
+  description: DLogin 注册
+  usage: /register <密码> <QQ>
+permissions:
+ DLogin.*:
+  default: true
+  description: 根权限
+  children:
+  DLogin.command:
+   default: true
+   description: 所有指令权限
+   children:
+    DLogin.command.login:
+     default: true
+     description: 登录命令
+    DLogin.command.register:
+     default: true
+     description: 注册命令	

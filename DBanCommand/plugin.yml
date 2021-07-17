@@ -1,0 +1,22 @@
+﻿name: DBanCommand
+main: DBanCommand\Main
+version: 1.0.0
+api: [1.0.0]
+load: STARTUP
+author: glorydark
+commands:
+ bc:
+  description: DBanCommand
+  usage: /bc
+permissions:
+ DBanCommand.*:
+  default: op
+  description: 根权限
+  children:
+  DBanCommand.command:
+   default: op
+   description: 所有指令权限
+   children:
+    DBanCommand.command.bc:
+     default: op
+     description: DBanCommand
